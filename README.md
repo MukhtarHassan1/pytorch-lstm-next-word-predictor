@@ -1,4 +1,3 @@
-# pytorch-lstm-next-word-predictor
 
 # PyTorch LSTM Next-Word Prediction Model
 
