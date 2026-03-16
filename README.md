@@ -113,7 +113,7 @@ jupyter notebook
 Open:
 
 ```
-pytorch_lstm_next_word_predictor.ipynb
+PyTorch-LSTM-Next_Word-Predictor.ipynb
 ```
 
 Run all cells to train and test the model.
